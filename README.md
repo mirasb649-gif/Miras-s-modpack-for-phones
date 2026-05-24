@@ -1,5 +1,5 @@
 # Miras-s-modpack-for-phones
-Optimization mods, as well as QoL mods for a comfortable Minecraft Java Edition experience on your phone using MoJo or other launchers.
+Optimization and QoL mods for a smooth Minecraft Java experience on phones via MoJo & other launchers.
 ## Why do you need this modpack?
 
 **MMFP (Miras's modpack for phones)** is designed specifically for smartphones. It optimizes performance and adds convenient, enjoyable mods that improve your Quality of Life (QoL). Every mod is carefully selected to ensure they are not too demanding on phone hardware.
