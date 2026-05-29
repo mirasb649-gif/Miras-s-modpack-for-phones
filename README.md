@@ -7,11 +7,14 @@
 ## 🚀 Optimization
 
 MMFP optimizes the game for mobile devices, fixing memory leaks and reducing memory consumption to ensure high performance even on low-end smartphones. Installing the game with MMFP also auto-optimizes graphics settings and mod configurations for mobile devices. 
+<details>
+<summary>Key optimization mods included:</summary>
 
-### Key optimization mods included:
 * **Sodium:** The absolute gold standard for Fabric. It completely rewrites the rendering system, making the game significantly smoother and more responsive.
 * **ModernFix + FerriteCore:** Fixes memory leaks and aggressively compresses blockstates and models in RAM, which is critical for smartphones with limited memory.
 * **Lithium + ImmediatelyFast + EntityCulling:** *Lithium* fixes server logic and physics in single-player, *ImmediatelyFast* removes vanilla code bottlenecks when rendering text and HUD elements, and *EntityCulling* skips rendering hidden objects. A perfect synergy that eliminates FPS drops.
+
+</details>
 
 ---
 
@@ -19,18 +22,44 @@ MMFP optimizes the game for mobile devices, fixing memory leaks and reducing mem
 
 MMFP adds small but impactful features that improve your daily gameplay experience without overloading your smartphone's resources:
 
-* **Features:** `AppleSkin` (hunger HUD info), `Xaero's World Map` (map & navigation), `Zoomify` (smooth zoom), and `LambDynamicLights` (dynamic handheld lighting optimized for mobile).
-* **Built-in Resource Packs:** `Continuity` (connected textures), `Low On Fire` (cleaner screen when burning), and `Default Dark Mode` (eye-friendly dark interfaces).
+
+<details>
+<summary>Features:</summary>
+
+- **Mod Menu** (a mod menu to view the list of mods you have installed).
+- **AppleSkin** (hunger HUD info). 
+- **Xaero's World Map** (map & navigation). 
+- **Zoomify** (smooth zoom).
+- **LambDynamicLights** (dynamic handheld lighting optimized for mobile).
+- **Iris** (a modern shader pack loader).
+- **Language Reload** (reduces load times and adds fallbacks for languages).
+
+</details>
+<details>
+<summary>Built-in Resource Packs: </summary>
+
+- **Continuity** (connected textures).
+- **Low On Fire** (cleaner screen when burning).
+- **Default Dark Mode** (eye-friendly dark interfaces).
+
+</details>
 
 ---
 
-## ⚠️ Heavy features (Experimental)
+## ⚠️ Heavy features
 
 Heavy features of MMFP that are **disabled by default** include:
+<details>
+<summary>Pre-configured shaders for maximum FPS on smartphones:</summary>
 
-* **BSL Shaders:** Beautiful shaders, but it is highly recommended to use the **Low** or lower graphics preset on your smartphone. These shaders can quickly drain your battery, significantly reduce performance, and cause your phone to heat up. Do not use them on low-end devices or if you value your smartphone's battery life.
+- **MakeUp - Ultra Fast:** lightweight shader focused on maximum 
+performance with minimal visual impact.
+- **Complementary Reimagined:** balanced shader with good visuals 
+while remaining relatively lightweight.
+- **Sildur's Vibrant Lite:** lite version of Vibrant shaders, 
+optimized for low-end hardware.
 
-> 📌 *In the future, I will select and pre-configure the most suitable and lightweight shaders specifically for smartphones.*
+</details>
 
 ---
 
@@ -58,5 +87,5 @@ If you're playing with other launcher:
 
 ## 👥 Credits & Rights
 
-* **Thanks to the creators** of all the brilliant resourcepacks, performance and QoL mods included in this pack.
+* **Thanks to the creators** of all the brilliant resourcepacks, shaderpacks, performance and QoL mods included in this pack.
 * **License:** Creative Commons Attribution Non Commercial Share Alike 4.0 International
