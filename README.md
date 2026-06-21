@@ -16,6 +16,8 @@ MMFP optimizes the game for mobile devices, fixing memory leaks and reducing mem
 
 </details>
 
+> Tested on Samsung Galaxy S24 Ultra: from 74 FPS vanilla → 120 FPS (display cap) with MMFP.
+
 ---
 
 ## 🛠️ Quality of Life (QoL)
@@ -35,20 +37,12 @@ MMFP adds small but impactful features that improve your daily gameplay experien
 - **Language Reload** (reduces load times and adds fallbacks for languages).
 
 </details>
-<details>
-<summary>Built-in Resource Packs: </summary>
-
-- **Continuity** (connected textures).
-- **Low On Fire** (cleaner screen when burning).
-- **Default Dark Mode** (eye-friendly dark interfaces).
-
-</details>
 
 ---
 
-## ⚠️ Heavy features
+## ⚠️ Optional features
 
-Heavy features of MMFP that are **disabled by default** include:
+Optional features of MMFP that are **disabled by default** include:
 <details>
 <summary>Pre-configured shaders for maximum FPS on smartphones:</summary>
 
@@ -61,13 +55,22 @@ optimized for low-end hardware.
 
 </details>
 
+<details>
+<summary>Built-in Resource Packs: </summary>
+
+- **Continuity** (connected textures).
+- **Low On Fire** (cleaner screen when burning).
+- **Default Dark Mode** (eye-friendly dark interfaces).
+
+</details>
+
 ---
 
 ## 📲 Installation guide
 
 Since the modpack is fully optimized for phones, you can download it directly from within the MoJo Launcher app without downloading any third-party files:
 
-1. Open MoJo Launcher on your phone.
+1. Open MoJo Launcher (or other good launcher) on your phone.
 2. Click the "Create Instance" button.
 3. Scroll down to the "Download a Modpack" section.
 4. In the search bar, enter the name of this modpack: `Miras's ModPack for phones`.
