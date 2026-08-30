@@ -1,5 +1,7 @@
 ## Why do you need this modpack?
 
+>This GitHub repository has been archived. You can download the latest version of the modpack on Modrinth: Miras's ModPack for phones. However, feel free to report any bugs or issues in the issue tracker.
+
 **MMFP (Miras's modpack for phones)** is designed specifically for smartphones. It optimizes performance and adds convenient, enjoyable mods that improve your Quality of Life (QoL). Every mod is carefully selected to ensure they are not too demanding on phone hardware.
 
 ---
